@@ -1,4 +1,4 @@
-#ChatsApp------->Depoly Link :  https://abhishek-kr-chat-app.netlify.app/
+#ChatsApp------->Depoly Link :  https://abhishek-kr-chats-app.netlify.app/
 Built a real-time chat application where users can create rooms and chat among themselves.
 #Join_Page
 ![Join-Page](https://github.com/user-attachments/assets/a3427d30-0c7d-404c-b403-c711226c119c)
